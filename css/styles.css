@@ -88,9 +88,10 @@ header
     right: 0;
   }
 }
-/* SECCION I N I C I O */
+/* SECCION INICIO /////////////////*/
 .inicio{
   background: linear-gradient(60deg,rgb(35, 34, 37),rgb(40, 160, 114),#222423);
+  
   background-size: 400% 400%;
   position: relative;
   height: 50vh;
@@ -115,6 +116,7 @@ header
 }
 .inicio .contenido-banner img{
   padding: 3px;
+  border: 5px solid #1CB698;
   margin-top: 50px;
   display: block;
   width: 80%;
